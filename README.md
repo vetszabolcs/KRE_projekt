@@ -1,2 +1,2 @@
 # KRE projekt
-Repository of the KRE Projektfeladat course
+Repository of a Project course I-III. - a 3 semester university course
