@@ -4,10 +4,10 @@ library(plotly)
 
 setwd("D:/Users/witen/OneDrive/HUB/BIG DATA/Projekt_DB")
 
-api_key <- "v7cnXT0xJJzQ3arakyBZWtHvF"
-api_secret <-"lUZMcd75Oj3234wjfGsiu5bgu5fyD4XkzgdZYvm3ukfffgMtP4"
-access_token <- "1167161106-NlIudZ6XYAPfwtfjhlFOXsnAhzgse9WQtLLne5y"
-access_secret <- "LdB7J4IQjrop96lSd2RNNpHbdDN4yxz36yKRb6xT51d3c" 
+api_key <- ""
+api_secret <-""
+access_token <- ""
+access_secret <- "" 
 
 twitter_token <- create_token(app="Project_Twitter_Covid", 
                               consumer_key = api_key, consumer_secret = api_secret,
